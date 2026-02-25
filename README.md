@@ -8,5 +8,13 @@
 // Objective: // The objective of this project is to build a simple // Palindrome Checker Management System using Java. // Currently, it displays a welcome message. // Future versions will check whether a word or sentence // is a palindrome.
 
 // Topics Covered: // - Java Basics // - Main Method // - Class Structure // - Console Output (System.out.println) // - Basic Program Execution Flow
+// Use Case 1:
+// - Displays welcome message when application starts.
 
+// Use Case 2:
+// - Uses a hardcoded string.
+// - Reverses the string.
+// - Compares original and reversed string.
+// - Displays whether the word is a palindrome.
+// - Program exits.
 // Use Case: // This application can be used: // - To check whether a word or number is a palindrome. // - For learning basic Java programming. // - As a beginner-level academic project. // - As a foundation for expanding into a full palindrome checking system.
